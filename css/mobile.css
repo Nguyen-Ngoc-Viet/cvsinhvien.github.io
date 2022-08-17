@@ -1,0 +1,80 @@
+@media screen and (max-width: 600px) {
+  .name {
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(20%, -50%);
+    font-size: 30px;
+    color: #f8f8f8;
+
+    margin-top: -250px;
+  }
+  /* navbar */
+
+  #nav-bar {
+    display: block;
+    margin-left: -300px;
+    padding: 40px;
+  }
+  .ly-lich {
+    margin-left: 175px;
+    padding: 5px;
+  }
+  .chung-chi {
+    margin-left: 10px;
+    padding: 5px;
+  }
+  .duan {
+    margin-left: -30px;
+  }
+  /* thông tin cá nhân + mục tiêu nghề nghiệp */
+  .like {
+    display: block;
+  }
+  #personal-info {
+    padding-left: 15px;
+  }
+  .section-title {
+    padding-left: 15px;
+  }
+  /* thông tin nghề nghiệp */
+  .container1 {
+    display: block;
+  }
+
+  .ky-nang {
+    margin-top: -10px;
+  }
+  /* chứng chỉ */
+
+  .shoumeisho {
+    display: block;
+  }
+  #id-939 {
+    margin-left: 50px;
+  }
+  .p-ro {
+    border-bottom: 1px solid #d6c08d;
+  }
+  .p-ro1 {
+    border-bottom: 1px solid #d6c08d;
+    border-left: none;
+  }
+  .p-ro2 {
+    border-bottom: 1px solid #d6c08d;
+  }
+  /* dự án */
+  .du-an {
+    display: block;
+    margin-top: 50px;
+    margin-left: 35px;
+  }
+  .du-an img {
+    width: 410px;
+    height: 400px;
+  }
+  .automatic {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
